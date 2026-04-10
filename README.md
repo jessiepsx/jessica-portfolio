@@ -25,8 +25,8 @@ Para a construção deste portfólio, utilizei:
 4. **Contato:** Links rápidos para e-mail, LinkedIn e GitHub.
 
 ## 🌐 Deploy
-O site está hospedado na **Vercel** e pode ser acessado através do link abaixo:  
-> [🔗 Acesse meu Portfólio aqui](https://jessiepsx.vercel.app) 
+O site está hospedado na **Vercel** e pode ser acessado através do link abaixo: 
+> <a href="https://jessiepsx.vercel.app" target="_blank">🔗 Acesse meu Portfólio aqui</a>
 
 ---
 *Onde cada linha de código é um movimento estratégico em um universo de possibilidades. 🌌♟️*
