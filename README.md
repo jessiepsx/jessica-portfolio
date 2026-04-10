@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para centralizar meus principais projetos em tecnologia e Inteligência Artificial, servindo como uma vitrine das minhas habilidades em desenvolvimento de software e análise de dados.
 
+![Preview do Portfólio](assets/portfolio.png)
+
 ## 🚀 Sobre o Projeto
 O objetivo deste site é apresentar minha trajetória como estudante de ADS na FIAP e desenvolvedora, destacando projetos práticos onde aplico o conceito de **"aprender fazendo"**. O design é focado em uma experiência moderna (Dark Mode), responsiva e com navegação fluida.
 
@@ -23,8 +25,8 @@ Para a construção deste portfólio, utilizei:
 4. **Contato:** Links rápidos para e-mail, LinkedIn e GitHub.
 
 ## 🌐 Deploy
-O site está hospedado na **Vercel** e pode ser acessado através do link abaixo:  
-> [🔗 Acesse meu Portfólio aqui](https://jessiepsx.vercel.app) 
+O site está hospedado na **Vercel** e pode ser acessado através do link abaixo: 
+> <a href="https://jessiepsx.vercel.app" target="_blank">🔗 Acesse meu Portfólio aqui</a>
 
 ---
 *Onde cada linha de código é um movimento estratégico em um universo de possibilidades. 🌌♟️*
